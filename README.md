@@ -19,6 +19,18 @@ At the core, what drives me is the same curiosity that started years ago: the de
   <img src="https://img.shields.io/badge/-Snort-CB2027?&style=for-the-badge&logo=security&logoColor=white" />
 </div>
 
+### Application Security
+<div>
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLMap-F7DF1E?&style=for-the-badge&logo=database&logoColor=black" />
+</div>
+
+### Forensics
+<div>
+  <img src="https://img.shields.io/badge/-Volatility-1E90FF?&style=for-the-badge&logo=buffer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FTK%20Imager-2F4F4F?&style=for-the-badge&logo=security&logoColor=white" />
+</div>
+
 ### SIEM
 <div>
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
