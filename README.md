@@ -1,5 +1,6 @@
 ## Hello, I'm Owen Ross
-<a href="https://www.linkedin.com/in/owen-ross/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/owen-ross/"><img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 From the moment I started programming in high school, I was fascinated by how the apps, websites, and games I used every day actually worked. That curiosity led me to pursue software development, where I built web and mobile applications using languages like Java, JavaScript, C#, Kotlin, and Swift. Writing code gave me a way to solve problems creatively and bring ideas to life.
 
@@ -25,6 +26,12 @@ At the core, what drives me is the same curiosity that started years ago: the de
   <img src="https://img.shields.io/badge/-SQLMap-F7DF1E?&style=for-the-badge&logo=database&logoColor=black" />
 </div>
 
+### Pen Testing
+<div>
+  <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+</div>
+
 ### Forensics
 <div>
   <img src="https://img.shields.io/badge/-Volatility-1E90FF?&style=for-the-badge&logo=buffer&logoColor=white" />
@@ -35,3 +42,6 @@ At the core, what drives me is the same curiosity that started years ago: the de
 <div>
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
 </div>
+
+## Projects
+- Coming Soon
