@@ -11,6 +11,12 @@ Through my coursework and hands-on labs, I’ve explored network defense, penetr
 ## Objective
 At the core, what drives me is the same curiosity that started years ago: the desire to understand systems deeply and use that knowledge to protect them. My goal is to build a career where I can combine my love for programming with my passion for cyber security to help organizations stay resilient in an ever-changing threat landscape.
 
+## Skills
+| Skill | Associated Project |
+|------------------------------|-----------------------------------------------------------------------------|
+| Low level socket programming | <a href="https://github.com/owen-ross-cs/Port-Scanner.git">Port Scanner<a/> |
+| IP and TCP packet analysis | <a href="https://github.com/owen-ross-cs/Port-Scanner.git">Port Scanner<a/> |
+
 ## Tools
 
 ### Networking
@@ -44,4 +50,4 @@ At the core, what drives me is the same curiosity that started years ago: the de
 </div>
 
 ## Projects
-- Coming Soon
+- <a href="https://github.com/owen-ross-cs/Port-Scanner.git">Port Scanner<a/>
