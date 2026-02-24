@@ -2,9 +2,12 @@
 
 <a href="https://www.linkedin.com/in/owen-ross/"><img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-From the moment I started programming in high school, I was fascinated by how the apps, websites, and games I used every day actually worked. That curiosity led me to pursue software development, where I built web and mobile applications using languages like Java, JavaScript, C#, Kotlin, and Swift. Writing code gave me a way to solve problems creatively and bring ideas to life.
 
-As my skills grew, so did my interest in what happens behind the scenes. I was interested in how systems are protected, where they are vulnerable, and what can happen if security is overlooked. That curiosity evolved into a passion for cyber security, which I now study in the final year of my program at Sheridan College.
+I have had a huge passion in technology ever since I was a kid. I was always interested in how the games, websites, and apps I used actually worked. This led me to start programming in high school. This curiosity led me to Sheridan College, where I developed my software development skills by building applications in languages like Java, JavaScript, C, C#, Kotlin, and Swift. Desspite graduating from the Software Development and Network Engineering program, I still wanted to learn more, which led me to the Honours Bachelors of Information Science (Cyber Security) program. Now that I knew how software was created, I was interested in how to secure it and exploit its vulnerbilities.
+
+
+Having recently graduated, I am equipped with the knowledge to both defend and protect systems from adversaries. Through my cyber security degree I learned how to use a variety of industry standard tools such as Nmap, Kali Linux, Metasploit, Splunk, Wireshark, and Burp Suite. With my experience with these tools I understand how systems are secured and where their vulnerabilities are.
+
 
 Through my coursework and hands-on labs, I’ve explored network defense, penetration testing, digital forensics, and threat analysis. I enjoy digging into complex problems, whether it’s tracing anomalies in network traffic, investigating security incidents, or analyzing how attackers exploit weaknesses. My background in development gives me a unique perspective: I understand how applications are built, which helps me see where they can—and should—be secured.
 
