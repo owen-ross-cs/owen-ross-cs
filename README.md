@@ -3,13 +3,16 @@
 <a href="https://www.linkedin.com/in/owen-ross/"><img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I have had a huge passion in technology ever since I was a kid. I was always interested in how the games, websites, and apps I used actually worked. This led me to start programming in high school. This curiosity led me to Sheridan College, where I developed my software development skills by building applications in languages like Java, JavaScript, C, C#, Kotlin, and Swift. Desspite graduating from the Software Development and Network Engineering program, I still wanted to learn more, which led me to the Honours Bachelors of Information Science (Cyber Security) program. Now that I knew how software was created, I was interested in how to secure it and exploit its vulnerbilities.
+I've been passionate about technology ever since I was a kid. Growing up, I was always curious about how the games, websites, and apps I used actually worked. That curiosity led me to start programming in high school, and eventually pursue formal education in the field. 
 
 
-Having recently graduated, I am equipped with the knowledge to both defend and protect systems from adversaries. Through my cyber security degree I learned how to use a variety of industry standard tools such as Nmap, Kali Linux, Metasploit, Splunk, Wireshark, and Burp Suite. With my experience with these tools I understand how systems are secured and where their vulnerabilities are.
+At Sheridan College I completed the Software Development and Network Engineering program, where I developed my software development skills by building applications in languages like Java, JavaScript, C, C#, Kotlin, and Swift. From this program, I developed a strong foundation in software development, networking, and system architecture. Desspite understanding how software was built, I began to develop a new curiosity. How software can be secured and how it can be exploited.
 
 
-Through my coursework and hands-on labs, I’ve explored network defense, penetration testing, digital forensics, and threat analysis. I enjoy digging into complex problems, whether it’s tracing anomalies in network traffic, investigating security incidents, or analyzing how attackers exploit weaknesses. My background in development gives me a unique perspective: I understand how applications are built, which helps me see where they can—and should—be secured.
+To satisfy my curiosity, I continued my education in the Honours Bachelors of Information Science (Cyber Security) program. During this program I focused on securing systems, identify vulnerabilities, and understanding attacker methodologies. I gained hands-on experience with industry standard tools such as Nmap, Kali Linux, Metasploit, Splunk, Wireshark, and Burp Suite, applying them in real world simulations.
+
+
+Through coursework and hands-on labs, I’ve explored network defense, penetration testing, digital forensics, and threat analysis. I enjoy dissecting complex problems, whether it’s tracing anomalies in network traffic, investigating security incidents, or analyzing how attackers exploit weaknesses. My background in development gives me a distinct advantage in security: I understand how applications are built, which allows me to better identify how they should be protected.
 
 ## Objective
 At the core, what drives me is the same curiosity that started years ago: the desire to understand systems deeply and use that knowledge to protect them. My goal is to build a career where I can combine my love for programming with my passion for cyber security to help organizations stay resilient in an ever-changing threat landscape.
